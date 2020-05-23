@@ -27,21 +27,21 @@ The goals / steps of this project are the following:
 
   
 
-[image1]: ./examples/visualization.jpg  "Visualization"
+[image1]: ./examples/visualization.png  "Visualization"
 
 
 
-[image2]: ./examples/image1.png  "Traffic Sign 1"
+[image2]: ./new_images/image1.jpg  "Traffic Sign 1"
 
-[image3]: ./examples/image2.png  "Traffic Sign 2"
+[image3]: ./new_images/image2.jpg  "Traffic Sign 2"
 
-[image4]: ./examples/image3.png  "Traffic Sign 3"
+[image4]: ./new_images/image3.jpg  "Traffic Sign 3"
 
-[image5]: ./examples/image4.png  "Traffic Sign 4"
+[image5]: ./new_images/image4.jpg  "Traffic Sign 4"
 
-[image6]: ./examples/image5.png  "Traffic Sign 5"
+[image6]: ./new_images/image5.jpg  "Traffic Sign 5"
 
-[image7]: ./examples/image6.png  "Traffic Sign 6"  
+[image7]: ./new_images/image6.jpg  "Traffic Sign 6"  
 
 ## Rubric Points
 
